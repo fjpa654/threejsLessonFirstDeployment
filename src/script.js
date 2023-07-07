@@ -38,7 +38,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Bruno Simon',
+            'Ya merito es viernes',
             {
                 font: font,
                 size: 0.5,
